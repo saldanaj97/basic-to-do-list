@@ -1,3 +1,6 @@
+## Basic To-Do List React App
+The purpose of this project was to begin using React to build a web application. This is a barebones To-Do list that allows a user to add tasks that need to be completed for the day. This is my first React app so it is not very intuitive but I will continue to update it when I have freetime.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
